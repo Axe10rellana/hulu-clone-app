@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Codigo base del proyecto Hulu Clone App hecho en Next.js en fase de desarrollo.
+Código base de la aplicación Hulu Clone App hecha en Next.js y Tailwind CSS que utiliza la API TMDB.
 
 ## Dependencias
 
