@@ -1,12 +1,22 @@
 {
   "name": "hulu-clone-app",
+  "description": "Código base de la aplicación Hulu Clone App hecha en Next.js y Tailwind CSS que utiliza la API TMDB.",
   "private": true,
+  "version": "1.0.0",
+  "homepage": "./",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": [
+    "next",
+    "react",
+    "tailwind"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
   "dependencies": {
     "@heroicons/react": "^1.0.5",
     "next": "12.0.10",
